@@ -55,6 +55,7 @@ CMakeFiles/tema3.dir/src/Data.cpp.o
  /usr/include/c++/13/bits/stl_iterator_base_funcs.h
  /usr/include/c++/13/bits/stl_iterator_base_types.h
  /usr/include/c++/13/bits/stl_pair.h
+ /usr/include/c++/13/bits/stl_relops.h
  /usr/include/c++/13/bits/streambuf.tcc
  /usr/include/c++/13/bits/streambuf_iterator.h
  /usr/include/c++/13/bits/stringfwd.h
@@ -87,6 +88,7 @@ CMakeFiles/tema3.dir/src/Data.cpp.o
  /usr/include/c++/13/system_error
  /usr/include/c++/13/type_traits
  /usr/include/c++/13/typeinfo
+ /usr/include/c++/13/utility
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h

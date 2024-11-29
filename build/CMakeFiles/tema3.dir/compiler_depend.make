@@ -54,6 +54,7 @@ CMakeFiles/tema3.dir/src/Data.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/Data.cpp \
   /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
   /usr/include/c++/13/bits/stl_iterator_base_types.h \
   /usr/include/c++/13/bits/stl_pair.h \
+  /usr/include/c++/13/bits/stl_relops.h \
   /usr/include/c++/13/bits/streambuf.tcc \
   /usr/include/c++/13/bits/streambuf_iterator.h \
   /usr/include/c++/13/bits/stringfwd.h \
@@ -86,6 +87,7 @@ CMakeFiles/tema3.dir/src/Data.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/Data.cpp \
   /usr/include/c++/13/system_error \
   /usr/include/c++/13/type_traits \
   /usr/include/c++/13/typeinfo \
+  /usr/include/c++/13/utility \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -416,8 +418,6 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
@@ -429,6 +429,12 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/c++/13/bits/stl_relops.h:
 
 /usr/include/c++/13/bits/stl_construct.h:
 
@@ -472,11 +478,13 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 
 /usr/include/wchar.h:
 
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/usr/include/c++/13/bits/basic_ios.h:
+
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
 
 /usr/include/c++/13/bits/ostream.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h:
 
@@ -556,12 +564,6 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 
 /usr/include/c++/13/bits/cxxabi_forced.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
-
-/usr/include/c++/13/cerrno:
-
-/usr/include/stdio.h:
-
 /usr/include/c++/13/bits/functexcept.h:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
@@ -591,6 +593,12 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 /usr/include/c++/13/bits/locale_classes.h:
 
 /usr/include/ctype.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+/usr/include/c++/13/cerrno:
+
+/usr/include/stdio.h:
 
 /usr/include/c++/13/clocale:
 
@@ -647,6 +655,8 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 /usr/include/c++/13/bits/cxxabi_init_exception.h:
 
 /usr/include/c++/13/typeinfo:
+
+/usr/include/c++/13/utility:
 
 /usr/include/c++/13/bits/streambuf.tcc:
 
@@ -717,7 +727,3 @@ CMakeFiles/tema3.dir/src/main.cpp.o: /home/iuli25/PAOO/PAOO_Tema3/src/main.cpp \
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/x86_64-linux-gnu/bits/time.h:
-
-/usr/include/c++/13/bits/basic_ios.h:
-
-/usr/include/x86_64-linux-gnu/bits/time64.h:
