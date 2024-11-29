@@ -17,6 +17,8 @@ class Data
         Data& operator=(const Data& other);
         // Destructor
         ~Data();
+        //swap function
+        void swap(Data& other) noexcept;
 
 };
 

@@ -13,10 +13,16 @@ Data::Data(const Data& other) : data(new int(*(other.data))) {
 
 // Copy assignment operator
 Data& Data::operator=(const Data& other) {
-    if (this != &other) { // Prevent self-assignment
-        *data = *(other.data);
+    if (this != &other) { 
+        Data temp(other);   // Create a temporary copy of `other`
+        swap(temp);            // Swap the contents of `temp` with `this`
         std::cout << "Copy assignment operator called, value: " << *data << std::endl;
     }
+    else{
+        return *this;
+    }
+
+
     return *this; // Return reference to the current object
     //This ensures that the result of an assignment operation is a reference to the left-hand side object.
 }
